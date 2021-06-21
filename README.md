@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @acardozoweb
+- 👋 Hi, I'm Anthony
 - 👀 I’m interested in becoming a web developer.
 - 🌱 I’m currently learning HTML, CSS and JavaScript
 - 💞️ I’m looking to collaborate on ...
