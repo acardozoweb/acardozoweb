@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Anthony
-- 👀 I’m interested in becoming a full stack web developer.
-- 🌱 I’m currently learning HTML, CSS and JavaScript
+- 👀 I’m interested in building creative and practical web applications
+- 🌱 I’m currently learning HTML, CSS, JavaScript, Node, Express, SQL, MongoDB, React, MERN
 - 💞️ I’m looking to collaborate on learning and skill development.
 - 📫 How to reach me anthonyccardozo@gmail.com
 
